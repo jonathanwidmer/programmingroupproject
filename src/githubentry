@@ -3,4 +3,4 @@ public class GitHub{
           System.out.println("Hello World");
      }
 }
-![](githubentry.PNG)
+![](logo/githubentry.PNG)
