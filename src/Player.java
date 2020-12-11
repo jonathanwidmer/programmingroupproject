@@ -1,4 +1,10 @@
 public class Player{
+  /**
+  a class for the player in the game
+  @param name
+  @return name, image, health, health status
+  TODO - add logic for player including health, name, image, and status
+  */
   String name = " ";
   public Player player = new player;
   private int health;
