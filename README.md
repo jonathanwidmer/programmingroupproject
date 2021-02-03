@@ -1,7 +1,7 @@
 # Cretaceous Maze Adventure
 This is a repository for group projects for group 3 in Mr. Kapptie's programming 2 class.
 ![](logo/repositorypic.PNG)
-![](logo/groupprojectdiagram.PNG)
+![](logo/groupprojectdiagram.png)
 ![](logo/projectimage.JPG)
 ![](logo/projectimage2.JPG)
 ![](logo/projectimage3.JPG)
