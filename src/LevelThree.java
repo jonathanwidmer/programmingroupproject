@@ -10,4 +10,5 @@ public class LevelThree{
   void display(powerup);
   void display(dinosaur);
   void powerup();
+  void printMaze();
 }
