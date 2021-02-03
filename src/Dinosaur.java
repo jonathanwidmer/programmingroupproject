@@ -9,5 +9,5 @@ public class Dinosaur implements Stats{
   String species = " ";
   void display(dinosaur);
   void movement(random);
-  void setSpeed(int);
+  public void setSpeed(int);
 }
