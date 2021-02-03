@@ -8,7 +8,8 @@ public class World{
   double score = ();
   void setDifficulty(int);
   void display(dinosaur);
-  void display(player);
+  void display(myPlayer);
   void startLevel();
   void nextLevel();
+  void printMaze();
 }
