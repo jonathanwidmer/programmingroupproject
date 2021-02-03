@@ -4,6 +4,7 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![](logo/groupprojectdiagram1.PNG)
 ![](logo/projectimage.JPG)
 ![](logo/projectimage2.JPG)
+![](logo/projectimage3.JPG)
 
 ## DOCUMENTATION:
 1. video of project running
