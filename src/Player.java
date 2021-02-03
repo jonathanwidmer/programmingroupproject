@@ -13,5 +13,5 @@ public class Player implements Stats{
   public static final int WEAK = 50;
   public static final int DYING = 20;
   void display(player);
-  public void setSpeed();
+  public void setSpeed(int);
 }
