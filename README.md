@@ -7,7 +7,16 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![](logo/projectimage3.JPG)
 
 # GUI Mockups
+### Title Screen
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TitleScreenTitle%20Screen.png?raw=true)
+### Main Menu
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MainMenuMainMenu.png?raw=true)
+### Timeline
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TimelineTimeline.png?raw=true)
+### Resources
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/ResourcesArtboard%204.png?raw=true)
+### Maze
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MazeMaze.png?raw=true)
 
 ## DOCUMENTATION:
 1. video or images of project running
