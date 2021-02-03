@@ -1,4 +1,4 @@
-public class Dinosaur{
+public class Dinosaur implements Stats{
   /**
   a class for dinosaurs in the game
   @return dinosaur species, health, displayed dinosaur
@@ -6,7 +6,8 @@ public class Dinosaur{
   */
   public Dinosaur dinosaur = new dinosaur;
   int health = ();
-  String name = " ";
+  String species = " ";
   void display(dinosaur);
   void movement(random);
+  void setSpeed(int);
 }
