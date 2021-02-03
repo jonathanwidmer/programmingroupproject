@@ -5,6 +5,6 @@ public class GameController{
   @return movements of the player
   TODO - add controls
   */
-  public MainCharacter myPlayer = new myPlayer;
+  public Player myPlayer = new myPlayer;
   int inputValue = ();
 }
