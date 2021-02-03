@@ -1,4 +1,4 @@
-public class Player{
+public class Player implements Stats{
   /**
   a class for the player in the game
   @param name
@@ -13,4 +13,5 @@ public class Player{
   public static final int WEAK = 50;
   public static final int DYING = 20;
   void display(player);
+  public void setSpeed();
 }
