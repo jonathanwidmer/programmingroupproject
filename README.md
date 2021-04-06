@@ -1,5 +1,5 @@
 # Cretaceous Maze Adventure
-This is a repository for group projects for group 3 in Mr. Kapptie's programming 2 class.
+This is a repository for group projects for group 3 in Mr. Kapptie's programming 2 class.Our project is called Cretaeous Maze Adventure. The goal of the game is to get through a maze with enemy dinosaurs, and after you beat the level with those dinosaurs, a frame will pop up and tell you information about that dinosaur. Our group members are Aaron Wang, Aiden DeBoer, Jonathan Widmer, and William Bastian. Aaron is in charge of class connectivity, Aiden is in charge of buttons and information, Jonathan is in charge of movement and enemy controls, William is in charge of graphics.
 ![](logo/repositorypic.PNG)
 ![](logo/groupprojectdiagram.png)
 ![](logo/projectimage.JPG)
