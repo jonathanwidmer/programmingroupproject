@@ -5,6 +5,8 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![](logo/projectimage.JPG)
 ![](logo/projectimage2.JPG)
 ![](logo/projectimage3.JPG)
+![](logo/triceratops1.png)
+![](logo/brachiosaurus.png)
 
 # GUI Mockups
 ### Title Screen
