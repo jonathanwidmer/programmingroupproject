@@ -9,6 +9,8 @@ Please download the zip file and extract the files before running the applicatio
 We are working on creating a jar file for Mac OS.
 
 ![](logo/classdiagram.png)
+
+## Dinosaur Graphics
 ![](logo/projectimage.JPG)
 ![](logo/projectimage2.JPG)
 ![](logo/projectimage3.JPG)
