@@ -19,7 +19,7 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/TitleScreen.png?raw=true)
 ### Timeline
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TimelineTimeline.png?raw=true)
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MazeTimeline.png?raw=true)
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/Timeline.png?raw=true)
 ### Resources
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/Resources.png?raw=true)
 ### Maze
