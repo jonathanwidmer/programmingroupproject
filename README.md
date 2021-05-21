@@ -33,6 +33,7 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![Final Project Video](https://github.com/jonathanwidmer/programmingroupproject/raw/main/finalprojectvideo.mp4)
 
 ![](logo/levelone.JPG)
-
-Blue circle represents user. User guides blue circle against the red enemies(dinosaurs) to make it past the level.
+Blue circle represents user. User guides blue circle against the red enemies (dinosaurs) to make it past the level.
 If the user beats the level, they learn about the dinosaurs they defeated. At the title screen, the user can select to play the game, look at the timeline, or use resources to learn more about the dinosaurs. As the levels are beaten, the user will learn about dinosaurs after beating the level that dinosaur was part of. (Not what the final game will look like.)
+
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/logo/demo1.PNG?raw=true)
