@@ -14,14 +14,14 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 
 # GUI Mockups
 ### Main Menu
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/StartScreen.png?raw=true)
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/StartScreen.png?raw=true)
 ### Title Screen
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TitleScreen.png?raw=true)
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/TitleScreen.png?raw=true)
 ### Timeline
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TimelineTimeline.png?raw=true)
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MazeTimeline.png?raw=true)
 ### Resources
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/Resources.png?raw=true)
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/Resources.png?raw=true)
 ### Maze
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MazeMaze.png?raw=true)
 
@@ -29,7 +29,7 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 1. video or images of project running
 
 ![Final Project Video](https://github.com/jonathanwidmer/programmingroupproject/raw/main/finalprojectvideo.mp4)
-<---- video of project running
+
 ![](logo/levelone.JPG)
 
 Blue circle represents user. User guides blue circle against the red enemies(dinosaurs) to make it past the level.
