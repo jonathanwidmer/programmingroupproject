@@ -16,8 +16,7 @@ class StartScreen {
   */
   StartScreen(){
     // initialize image of main menu
-    startImage = loadImage("StartScreen.jpg");
-    startImage.resize(1280, 720);
+    startImage = loadImage("StartScreen.png");
   }
   
   /**

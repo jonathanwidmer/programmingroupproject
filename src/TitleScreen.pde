@@ -4,21 +4,20 @@
 
 class TitleScreen {
   PImage background; // background image
-  
   boolean play = false; // the user has not begun playing yet
   boolean instructions = false;
 
   // constructor
   TitleScreen() {
     // initialize the images
-    background = loadImage("TitleScreen.jpg");
+    background = loadImage("TitleScreen.pnTitg");
   }
   
   /**
     Display the title screen
   */
   void display() {
-    // display the background image and back arrow
+    // display the background image
     background(background);
     
     // if the user presses on the start button, start the game

@@ -5,7 +5,6 @@
 class Resources{
   // declare global variables
   PImage background; // image of resources page
-  PImage arrow; // image of back arrow
   
   /**
     Constructor
@@ -13,20 +12,15 @@ class Resources{
   Resources() {
     // initialize image of resources page
     background = loadImage("Resources.png");
-    
-    // initialize image of back arrow
-    arrow = loadImage("arrow.png");
-    arrow.resize(60, 50);
   }
   
   /**
     Displays the Resources page
   */
   void display() {
-    // display the resources image and the back arrow
+    // display the resources image
     background(background);
-    image(arrow, 1210, 15);
-    
+
     // display the links
     textAlign(LEFT);
     textSize(20);

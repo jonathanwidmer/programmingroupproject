@@ -8,7 +8,6 @@ class World {
   Timer dinosaurTimer; // 
   Level levelOne; // level one
   Level levelTwo; // level two
-  Level levelThree;
   
   int dinosaurRate = 100; // rate at which dinosaurs fall (in ms)
   int score = 0; // score of player

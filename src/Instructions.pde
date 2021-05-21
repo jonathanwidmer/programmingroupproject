@@ -11,8 +11,7 @@ class Instructions{
   */
   Instructions() {
     // initialize background
-    background = loadImage("Instructions.jpg");
-    background.resize(1280, 720);
+    background = loadImage("Instructions.png");
   }
   
   /**
