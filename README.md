@@ -9,8 +9,6 @@ Please download the zip file and extract the files before running the applicatio
 We are working on creating a jar file for Mac OS.
 
 ![](logo/classdiagram.png)
-
-## Dinosaur Graphics
 ![](logo/projectimage.JPG)
 ![](logo/projectimage2.JPG)
 ![](logo/projectimage3.JPG)
@@ -37,7 +35,8 @@ We are working on creating a jar file for Mac OS.
 
 ![Final Project Video](https://github.com/jonathanwidmer/programmingroupproject/raw/main/finalprojectvideo.mp4)
 
-This is not what the final game will look like, but explains the concept of the game. The user is represented by blue, and the dinosaurs by red. The user has to go through a maze without being killed by dinosaurs and make it to the end. When they are at the end, they can go to the next level, replay the level, or go back to the title screen and read the instructions, look at the resources, and look at the timeline to learn about the game and the dinosaurs in it.
+This is not what the final game will look like because we are going to switch to doing it in Processing instead of Java, but this picture explains the concept of the game. The user is represented by blue, and the dinosaurs by red. The user has to go through a maze without being killed by dinosaurs and make it to the end. When they are at the end, they can go to the next level, replay the level, or go back to the title screen and read the instructions, look at the resources, and look at the timeline to learn about the game and the dinosaurs in it.
+
 ![](logo/levelone.JPG)
 
 
