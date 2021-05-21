@@ -14,8 +14,10 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 
 # GUI Mockups
 ### Main Menu
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MainMenuMainMenu.png?raw=true)
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/StartScreen.png?raw=true)
 ### Title Screen
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TitleScreenTitle%20Screen.png?raw=true)
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/src/data/TitleScreen.png?raw=true)
 ### Timeline
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TimelineTimeline.png?raw=true)
