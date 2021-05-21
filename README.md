@@ -12,6 +12,10 @@ Please download the zip file and extract the files before running the applicatio
 We are working on creating a jar file for Mac OS.
 
 ## Class Diagram
+First Class Diagram
+![](logo/groupprojectdiagram1.png)
+
+Final Class Diagram
 ![](logo/classdiagram.png)
 
 # Dinosaur Graphics
