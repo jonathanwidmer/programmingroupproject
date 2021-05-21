@@ -17,6 +17,8 @@ The year 2 concepts in our project are:
 
 ![Mac OS version](https://github.com/jonathanwidmer/programmingroupproject/blob/main/applications/application.macosx-20210521T192826Z-001.zip) for Mac OS
 
+Note: The Mac OS version is not the most recent version. It will be updated on Monday, May 24.
+
 Please download the zip file and extract the files before running the application.
 
 ## Class Diagram
