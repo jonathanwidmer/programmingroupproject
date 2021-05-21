@@ -13,15 +13,15 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![](logo/brachiosaurus.png)
 
 # GUI Mockups
-### Title Screen
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TitleScreenTitle%20Screen.png?raw=true)
 ### Main Menu
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MainMenuMainMenu.png?raw=true)
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/StartScreen.png?raw=true)
+### Title Screen
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TitleScreen.png?raw=true)
 ### Timeline
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/TimelineTimeline.png?raw=true)
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MazeTimeline.png?raw=true)
 ### Resources
-![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/ResourcesArtboard%204.png?raw=true)
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/Resources.png?raw=true)
 ### Maze
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/Exports/MazeMaze.png?raw=true)
 
