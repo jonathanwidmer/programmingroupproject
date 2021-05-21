@@ -39,3 +39,6 @@ If the user beats the level, they learn about the dinosaurs they defeated. At th
 
 Level 1 Demonstration
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/logo/demo1.PNG?raw=true)
+
+Level 2 Demonstration
+![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/logo/demo2.PNG?raw=true)
