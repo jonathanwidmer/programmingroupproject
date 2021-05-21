@@ -35,10 +35,9 @@ We are working on creating a jar file for Mac OS.
 
 ![Final Project Video](https://github.com/jonathanwidmer/programmingroupproject/raw/main/finalprojectvideo.mp4)
 
+This is not what the final game will look like, but explains the concept of the game. The user is represented by blue, and the dinosaurs by red. The user has to go through a maze without being killed by dinosaurs and make it to the end. When they are at the end, they can go to the next level, replay the level, or go back to the title screen and read the instructions, look at the resources, and look at the timeline to learn about the game and the dinosaurs in it.
 ![](logo/levelone.JPG)
 
-Blue circle represents user. User guides blue circle against the red enemies (dinosaurs) to make it past the level.
-If the user beats the level, they learn about the dinosaurs they defeated. At the title screen, the user can select to play the game, look at the timeline, or use resources to learn more about the dinosaurs. As the levels are beaten, the user will learn about dinosaurs after beating the level that dinosaur was part of. (Not what the final game will look like.)
 
 Level 1 Demonstration
 ![](https://github.com/jonathanwidmer/programmingroupproject/blob/main/logo/demo1.PNG?raw=true)
