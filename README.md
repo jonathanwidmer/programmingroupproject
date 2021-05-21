@@ -3,7 +3,10 @@ This is a repository for group projects for group 3 in Mr. Kapptie's programming
 ![](logo/repositorypic.PNG)
 
 ## Executable Jar File
-![Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/application.windows64/application.windows64.zip) Windows 64
+![Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/application.windows64/application.windows64.zip) for Windows 64
+
+Please download the zip file and extract the files before running the application.
+We are working on creating a jar file for Mac OS.
 
 ![](logo/classdiagram.png)
 ![](logo/projectimage.JPG)
