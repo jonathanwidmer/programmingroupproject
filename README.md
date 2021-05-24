@@ -11,11 +11,11 @@ The year 2 concepts in our project are:
 ![](logo/repositorypic.PNG)
 
 ## Executable Jar File
-![Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/applications/application.windows64.zip) for Windows 64
+[Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/applications/application.windows64.zip) for Windows 64
 
-![Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/applications/application.windows32.zip) for Windows 32
+[Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/applications/application.windows32.zip) for Windows 32
 
-![Mac OS version](https://github.com/jonathanwidmer/programmingroupproject/blob/main/applications/application.macosx-20210521T192826Z-001.zip) for Mac OS
+[Mac OS version](https://github.com/jonathanwidmer/programmingroupproject/blob/main/applications/application.macosx-20210521T192826Z-001.zip) for Mac OS
 
 Note: The Mac OS version is not the most recent version. It will be updated on Monday, May 24.
 
@@ -55,7 +55,7 @@ Final Class Diagram
 ## DOCUMENTATION:
 1. video or images of project running
 
-![Final Project Video](https://github.com/jonathanwidmer/programmingroupproject/raw/main/finalprojectvideo.mp4)
+[Final Project Video](https://github.com/jonathanwidmer/programmingroupproject/raw/main/finalprojectvideo.mp4)
 
 This is not what the final game will look like because we are going to switch to doing it in Processing instead of Java, but this picture explains the concept of the game. The user is represented by blue, and the dinosaurs by red. The user has to go through a maze without being killed by dinosaurs and make it to the end. When they are at the end, they can go to the next level, replay the level, or go back to the title screen and read the instructions, look at the resources, and look at the timeline to learn about the game and the dinosaurs in it.
 
