@@ -15,7 +15,7 @@ The year 2 concepts in our project are:
 
 [Executable Jar File](https://github.com/jonathanwidmer/programmingroupproject/raw/main/applications/application.windows32.zip) for Windows 32
 
-[Mac OS version](https://github.com/jonathanwidmer/programmingroupproject/blob/main/applications/application.macosx-20210521T192826Z-001.zip) for Mac OS
+[Mac OS version](https://github.com/jonathanwidmer/programmingroupproject/raw/main/applications/application.macosx-20210521T192826Z-001.zip) for Mac OS
 
 Note: The Mac OS version is not the most recent version. It will be updated on Monday, May 24.
 
